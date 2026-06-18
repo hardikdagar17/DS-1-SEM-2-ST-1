@@ -1,0 +1,27 @@
+h3{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-decoration: underline;
+}
+div{
+    background-color: lightblue;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 30%;
+    margin-top: 5%;
+    padding: 20px;
+}
+#num{
+    background-color:rgb(255, 236, 212);
+    font-size: 15px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 7px;
+}
+#Btn{
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+}
